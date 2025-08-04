@@ -1,0 +1,21 @@
+# IntelliJ / JetBrains
+.idea/
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Build output
+dist/
+build/
+
+# Java / Maven / Gradle
+target/
+*.class
+*.jar
+*.war
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
